@@ -100,24 +100,6 @@ python manage.py runserver
 - **Voice/Video Implementation**: Batuhan Akçan
 - **Text Messaging System**: Both contributors
 
-## 📝 Project Structure
-```
-project/
-├── chat/
-│   ├── consumers.py     # WebSocket consumers
-│   ├── models.py        # Database models
-│   └── views.py         # View controllers
-├── static/
-│   ├── js/
-│   │   ├── chat.js      # Text chat functionality
-│   │   └── webrtc.js    # Voice/Video functionality
-│   └── css/
-└── templates/
-    └── chat/
-        ├── room.html    # Chat room template
-        └── index.html   # Main page template
-```
-
 ## 🔒 Security Features
 - Password-protected rooms
 - Secure WebRTC connections
@@ -126,7 +108,11 @@ project/
 
 ## 📸 Screenshots
 
-[Consider adding your application screenshots here]
+![Screenshot 2025-01-08 104002](https://github.com/user-attachments/assets/8d59a41d-7e88-4207-b6e1-9a9629459dd3)
+
+![Screenshot 2025-01-08 103948](https://github.com/user-attachments/assets/a1989448-6192-4d3b-bea4-89fdf2e194f7)
+
+![Screenshot 2025-01-08 104209](https://github.com/user-attachments/assets/43ec7bf7-60d0-46fc-a668-4c5e9dc58bd6)
 
 ## 🎓 Academic Context
 This project was developed as part of the Computer Networks course (BSM307) at Bartın University, Faculty of Science, Department of Computer Technology and Information Systems, under the supervision of Assoc. Prof. Dr. Evrim GÜLER.
@@ -235,24 +221,6 @@ python manage.py runserver
 - **Ses/Görüntü Uygulaması**: Batuhan Akçan
 - **Metin Mesajlaşma Sistemi**: Her iki katkıda bulunan
 
-## 📝 Proje Yapısı
-```
-project/
-├── chat/
-│   ├── consumers.py     # WebSocket tüketicileri
-│   ├── models.py        # Veritabanı modelleri
-│   └── views.py         # Görünüm denetleyicileri
-├── static/
-│   ├── js/
-│   │   ├── chat.js      # Metin sohbeti işlevselliği
-│   │   └── webrtc.js    # Ses/Görüntü işlevselliği
-│   └── css/
-└── templates/
-    └── chat/
-        ├── room.html    # Sohbet odası şablonu
-        └── index.html   # Ana sayfa şablonu
-```
-
 ## 🔒 Güvenlik Özellikleri
 - Şifre korumalı odalar
 - Güvenli WebRTC bağlantıları
@@ -261,7 +229,11 @@ project/
 
 ## 📸 Ekran Görüntüleri
 
-[Uygulama ekran görüntülerinizi buraya ekleyin]
+![Screenshot 2025-01-08 104002](https://github.com/user-attachments/assets/8d59a41d-7e88-4207-b6e1-9a9629459dd3)
+
+![Screenshot 2025-01-08 103948](https://github.com/user-attachments/assets/a1989448-6192-4d3b-bea4-89fdf2e194f7)
+
+![Screenshot 2025-01-08 104209](https://github.com/user-attachments/assets/43ec7bf7-60d0-46fc-a668-4c5e9dc58bd6)
 
 ## 🎓 Akademik Bağlam
 Bu proje, Bartın Üniversitesi Fen Fakültesi Bilgisayar Teknolojisi ve Bilişim Sistemleri Bölümü'nde, Doç. Dr. Evrim GÜLER danışmanlığında, Bilgisayar Ağları (BSM307) dersi kapsamında geliştirilmiştir.
