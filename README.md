@@ -97,7 +97,8 @@ python manage.py runserver
 
 ## 👥 Contributors
 - **Frontend & Authentication**: Ferhan Hacısalioğlu
-- **Voice/Video Implementation**: Batuhan Akçan
+- **-Video Implementation**: Batuhan Akçan
+- **Voice and WebRTC Implementation**: Ferhan Hacısalioğlu
 - **Text Messaging System**: Both contributors
 
 ## 🔒 Security Features
@@ -218,7 +219,8 @@ python manage.py runserver
 
 ## 👥 Katkıda Bulunanlar
 - **Frontend ve Kimlik Doğrulama**: Ferhan Hacısalioğlu
-- **Ses/Görüntü Uygulaması**: Batuhan Akçan
+- **Görüntü Uygulaması**: Batuhan Akçan
+- **Ses ve WebRTC Uygulaması**: Ferhan Hacısalioğlu
 - **Metin Mesajlaşma Sistemi**: Her iki katkıda bulunan
 
 ## 🔒 Güvenlik Özellikleri
