@@ -6,7 +6,6 @@ A comprehensive real-time communication platform built with Django and WebRTC, f
 
 ### Text Messaging
 - Real-time messaging using WebSocket
-- End-to-end message encryption
 - Message read status indicators
 - Image sharing with drag-and-drop support
 - Emoji support
@@ -120,7 +119,6 @@ project/
 ```
 
 ## 🔒 Security Features
-- End-to-end message encryption
 - Password-protected rooms
 - Secure WebRTC connections
 - Firebase authentication
@@ -143,7 +141,6 @@ Django ve WebRTC ile geliştirilmiş, metin, ses ve görüntülü iletişim öze
 
 ### Metin Mesajlaşma
 - WebSocket kullanarak gerçek zamanlı mesajlaşma
-- Uçtan uca mesaj şifreleme
 - Mesaj okundu durumu göstergeleri
 - Sürükle-bırak destekli görüntü paylaşımı
 - Emoji desteği
@@ -257,7 +254,6 @@ project/
 ```
 
 ## 🔒 Güvenlik Özellikleri
-- Uçtan uca mesaj şifreleme
 - Şifre korumalı odalar
 - Güvenli WebRTC bağlantıları
 - Firebase kimlik doğrulama
